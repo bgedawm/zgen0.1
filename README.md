@@ -15,8 +15,8 @@ A powerful AI agent inspired by Scout that runs locally on your machine. This ag
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/local-scout.git
-cd local-scout
+https://github.com/bgedawm/zgen0.1.git
+cd zgen0.1
 ```
 
 2. Create and activate a virtual environment:
